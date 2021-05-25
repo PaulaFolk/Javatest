@@ -15,6 +15,9 @@ var persona = {
     
 };
 
+var $ciudad = "Mendoza";
+
+let _dni = 88888888;
 console.log(persona);
 
 //trabajando con el DOM
